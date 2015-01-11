@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Umang Jain
+tagline:          Pseudo Jain, Pseudo IITian, True Indian
+url:              http://getpoole.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Umang Jain 
+  url:            https://twitter.com/theumangjain
+  email:          umang94@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/umang94/umang94.github.com
