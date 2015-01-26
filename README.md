@@ -23,7 +23,7 @@ Welcome to the source code of my personal homepage. This repsoitory has been for
 
 ## Author
 
-** Umang Jain **
+**Umang Jain**
 - <https://github.com/umang94>
 - <https://twitter.com/theumangjain>
 - <https://facebook.com/umangjain94>
