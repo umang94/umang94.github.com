@@ -2,17 +2,10 @@
 layout: page
 title: About
 ---
+
 <p class="message" >
 <i>"The heights by great men reached and kept, were not obtained by sudden flight. But they, while their companions slept, were toiling upward in the night"</i>
 </p>
-
-<script type= "text/javascript" src="../public/js/functions.js">  $('#quotes').append(getQuote()[0]);</script>
-<!--
-
-<p class="message" >
-The heights by great men reached and kept, were not obtained by sudden flight. But they, while their companions slept, were toiling upward in the night.
-</p>
--->
 
 ###Wie Gehts ! 
 
@@ -27,3 +20,6 @@ I am Umang Jain. I am a final year student of Computer Science at IIT Mandi. I h
 Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/theumangjain).
 
 Thanks for visiting my page!
+
+
+
